@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"Shrunk-protag-character-sheet","classId":1,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"People1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Harold","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"character 1a","characterIndex":1,"characterName":"character 1","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Girl-1-portraits","traits":[],"initialLevel":1,"maxLevel":99,"name":"Marisa","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"character 1b","characterIndex":2,"characterName":"character 1","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Girl-2-portraits","traits":[],"initialLevel":1,"maxLevel":99,"name":"Anya","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"character 1c","characterIndex":3,"characterName":"character 1","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Girl-3-portraits","traits":[],"initialLevel":1,"maxLevel":99,"name":"Vanessa","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":1,"characterName":"Shrunk-protag-character-sheet2","classId":1,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"People1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Harold","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":5,"characterName":"character 1","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Girl-5-portraits","traits":[],"initialLevel":1,"maxLevel":99,"name":"Rita","nickname":"","note":"","profile":""}
+]
