@@ -154,14 +154,20 @@
 "night":"CV-game-1-1-night",
 "UI":"UB-game-4-1-UI"},
 
-{"gameType":0,"character":9,"scene":1,
- "BG":0,
- "base":"CV-game-9-1-base",
- "dark":[{"dark1":0,"dark2":0,"dark3":0}],
- "express":[{"normal":0,"smile":"CV-game-9-1-expression-smile","aroused1":"CV-game-9-1-expression-aroused-1","aroused2":"CV-game-9-1-expression-aroused-2","cumFace":"CV-game-9-1-expression-cum-face","surprise":"CV-game-9-1-expression-surprised","laugh":"CV-game-9-1-expression-laugh","sleep1":0,"sleep2":0,"sleep3":0}],
- "natExpress":[{"range":"sleep","express":0},{"range":0.4,"express":0},{"range":0.8,"express":"CV-game-9-1-expression-smile"},{"range":1,"express":"CV-game-9-1-expression-aroused-2"}],"ejaculate":"CV-game-9-1-ejaculate","ejaculateEscape":"CV-game-9-1-ejaculate-escape","flaccid":[{"flaccid1":"CV-game-9-1-flaccid-1","flaccid2":"CV-game-9-1-flaccid-1","flaccid3":"CV-game-9-1-flaccid-2"}],"flaccidEscape":"CV-game-9-1-flaccid-escape",
- "stage":[{"s0":"CV-game-9-1-stage-0","s0a":0,"s1":"CV-game-9-1-stage-1","s1a":0,"s2":"CV-game-9-1-stage-1","s2a":"CV-game-9-1-stage-1","s3":"CV-game-9-1-stage-1","s3a":"CV-game-9-1-stage-1","s4":"CV-game-9-1-stage-2","s4a":"CV-game-9-1-stage-2","s5":"CV-game-9-1-stage-2","s5a":"CV-game-9-1-stage-2","s6":"CV-game-9-1-stage-3","s6a":"CV-game-9-1-stage-4","s7":"CV-game-9-1-stage-4","s7a":"CV-game-9-1-stage-5","s8":"CV-game-9-1-stage-5","s8a":"CV-game-9-1-stage-6","s9":"CV-game-9-1-stage-6","s9a":"CV-game-9-1-stage-6","sp1":0,"sp2":0,"sp3":0,"sp4":0}],"extra":0,
- "night":"CV-game-1-1-night",
- "UI":"CV-game-1-1-UI"}
-
+{"gameType":1,
+"character":10,
+"scene":1,
+"BG":0,
+"base":"UB-game-10-1-base",
+"dark":[{"dark1":0,"dark2":0,"dark3":0}],
+"express":[{"normal":0,"smile":"UB-game-10-1-expression-smile","aroused1":"UB-game-10-1-expression-aroused","aroused2":"UB-game-10-1-expression-aroused-2","cumFace":"UB-game-10-1-expression-cum-face","surprise":"UB-game-10-1-expression-surprised","laugh":"UB-game-10-1-expression-laugh","sleep1":0,"sleep2":0,"sleep3":0}],
+"natExpress":[{"range":"sleep","express":0},{"range":0.33,"express":0},{"range":0.66,"express":"UB-game-10-1-expression-smile"},{"range":1,"express":"UB-game-10-1-expression-aroused"}],
+"ejaculate":0,
+"ejaculateEscape":0,
+"flaccid":0,
+"flaccidEscape":0,
+"stage":[{"s0":"UB-game-10-1-stage-0","s0a":"UB-game-10-1-stage-0","s1":"UB-game-10-1-stage-1","s1a":"UB-game-10-1-stage-1","s2":"UB-game-10-1-stage-2a","s2a":"UB-game-10-1-stage-2","s3":"UB-game-10-1-stage-3a","s3a":"UB-game-10-1-stage-3","s4":"UB-game-10-1-stage-4a","s4a":"UB-game-10-1-stage-4","s5":"UB-game-10-1-stage-5a","s5a":"UB-game-10-1-stage-5","s6":"UB-game-10-1-stage-6a","s6a":"UB-game-10-1-stage-6","s7":"UB-game-10-1-stage-7a","s7a":"UB-game-10-1-stage-7","s8":"UB-game-10-1-stage-8","s8a":"UB-game-10-1-stage-8","s9":"UB-game-10-1-stage-8","s9a":"UB-game-10-1-stage-8","sp1":"UB-game-10-1-stage-s3","sp2":"UB-game-10-1-stage-s3","sp3":"UB-game-10-1-stage-s3","sp4":0}],
+"extra":0,
+"night":"CV-game-1-1-night",
+"UI":"UB-game-2-1-UI"}
 ]
